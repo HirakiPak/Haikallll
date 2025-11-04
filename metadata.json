@@ -1,0 +1,5 @@
+{
+  "name": "Simulator Rakit PC AI",
+  "description": "Aplikasi web interaktif untuk mahasiswa teknik komputer untuk belajar merakit PC. Menampilkan simulasi perakitan drag-and-drop, analisis kompatibilitas bertenaga AI, mode tutorial, kuis, dan asisten AI.",
+  "requestFramePermissions": []
+}
